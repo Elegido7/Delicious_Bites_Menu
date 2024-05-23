@@ -1,0 +1,1 @@
+Delicious menu is a class project 2 that was created and pushed to the Github.
